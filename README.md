@@ -16,7 +16,7 @@ const response = {
 --------
 
 ### 💻About Me :
-**I am a Frontend Developer **
+#### I am a Frontend Developer
 * I love progressing ,learning and developing my skills.
 * I am interested in programming, teamwork, and sharing knowledge with others.
 
